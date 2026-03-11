@@ -1,5 +1,5 @@
 # DATAS DAS ENTREGAS
-- 1. DESAFIO 1: 04/MAR/2026.
+- 1. DESAFIO 1: 04/MAR/2026 (Formação de Equipe e Tema).
 - 2. DESAFIO 2: 11/MAR/2026 (da AULA 3).
 - 3. DESAFIO 3: 18/MAR/2026 (da AULA 4).
 
