@@ -3,6 +3,7 @@
 - 2. DESAFIO 2: 11/MAR/2026 (da AULA 3).
 - 3. DESAFIO 3: 18/MAR/2026 (da AULA 4).
 - 4. DESAFIO 4: 25/MAR/2026 (da AULA 6).
+- 5. DESAFIO 5: 05/JUNHO/2026 (PRÁTICAS NO LAB.1)
 
 # 🎓 Desafio Final: Seminário DevOps e Observabilidade 360°
 # Tema: "Arquitetura e Orquestração de Microserviços Resilientes com Foco em Observabilidade"
