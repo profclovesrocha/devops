@@ -60,3 +60,4 @@ Deverá ser postado no repositório oficial da disciplina:
 # SUGESTÃO - Desafios para Smart City 
 - https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
 - EXEMPLO DE MONITORAMENTO: https://cybermap.kaspersky.com/pt
+- EXEMPLO DE PROJETOS PRONTOS: https://github.com/clovesrocha/app-ideias
