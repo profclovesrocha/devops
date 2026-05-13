@@ -54,7 +54,7 @@ Deverá ser postado no repositório oficial da disciplina:
 # TIMES - GRUPOS EM ANDAMENTO
 - TIME 01: JOÃO VICTOR,...
 - TIME 02: ?
-- TIME 03: ?
+- TIME 03: Pedro Gutemberg e Aylana Santos
 - TIME 04: ?
 
 # SUGESTÃO - Desafios para Smart City 
