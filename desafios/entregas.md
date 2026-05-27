@@ -56,7 +56,7 @@ Deverá ser postado no repositório oficial da disciplina:
 - TIME 01: JOÃO VICTOR,...
 - TIME 02: ?
 - TIME 03: Pedro Gutemberg e Aylana Santos
-- TIME 04: Afonso Peixoto, Alysson Gomes, Jonnathan Mendes, Lindalva Evellyn, Matheus Peixoto, Natalia Maria, Natthan Gonçalves, Vitor Hugo
+- TIME 04: Alysson Gomes, Jonnathan Mendes, Lindalva Evellyn, Matheus Peixoto, Natalia Maria, Natthan Gonçalves,Sabrina Lemos e Vitor Hugo
 
 # SUGESTÃO - Desafios para Smart City 
 - https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
