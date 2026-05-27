@@ -1,0 +1,3 @@
+- Link: https://brasil.certiprof.com/pages/certificacao-profissional-devops-foundation-dfpc
+- Link: https://www.devops-certification.org/?gad_source=1&gad_campaignid=1000244049&gbraid=0AAAAADy0uQfyxn1BqWNiIdlkeR8aJMtEF&gclid=CjwKCAjwrNrQBhBjEiwAoR4VOzBL5tMLFxpnWd-1i7ddmi0zQ5dUn7RywhQFkDjtf1D9RI3w4eplEBoCWo0QAvD_BwE
+- Link: https://aws.amazon.com/pt/training/learn-about/architect/?trk=85407421-ddd6-4d6c-8fb7-86718ec94e92&trk=85407421-ddd6-4d6c-8fb7-86718ec94e92&sc_channel=ps&sc_channel=ps&ef_id=CjwKCAjwrNrQBhBjEiwAoR4VOzMMvlq4LZNaXcIXq4mLoVQO57sSTAcfhGCjtD042n-bD_3TJdv1ZhoCJC4QAvD_BwE:G:s&s_kwcid=AL!4422!3!795924752123!e!!g!!devops%20certification!23523527928!196289016401&gclid=CjwKCAjwrNrQBhBjEiwAoR4VOzMMvlq4LZNaXcIXq4mLoVQO57sSTAcfhGCjtD042n-bD_3TJdv1ZhoCJC4QAvD_BwE
