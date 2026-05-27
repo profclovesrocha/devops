@@ -3,7 +3,7 @@
 - 2. DESAFIO 2: 11/MAR/2026 (da AULA 3).
 - 3. DESAFIO 3: 18/MAR/2026 (da AULA 4).
 - 4. DESAFIO 4: 25/MAR/2026 (da AULA 6).
-- 5. DESAFIO FINAL: 10/JUNHO/2026 (PRÁTICAS NO LAB.1)
+- 5. DESAFIO FINAL: 10/JUNHO/2026 (AV2 - EM SALA)
 - 6. Link em destaque INSCRIÇÕES | FACEPE E SECTI EDITAL COMPET 14/2026: https://forms.gle/zD3ZLcyEcpTMdEfn7
 
 # 🎓 Desafio Final: Seminário DevOps e Observabilidade 360°
