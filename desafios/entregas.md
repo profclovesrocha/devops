@@ -54,7 +54,7 @@ Deverá ser postado no repositório oficial da disciplina:
  
 # TIMES - GRUPOS EM ANDAMENTO
 - TIME 01: JOÃO VICTOR,...
-- TIME 02: ?
+- TIME 02: Pedro Gabriel, Odenir, Diego Henrique, Matheus Francisco
 - TIME 03: Pedro Gutemberg e Aylana Santos
 - TIME 04: Alysson Gomes, Jonnathan Mendes, Lindalva Evellyn, Matheus Peixoto, Natalia Maria, Natthan Gonçalves, Sabrina Lemos, Vitor Hugo
 
