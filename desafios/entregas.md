@@ -53,7 +53,7 @@ Deverá ser postado no repositório oficial da disciplina:
 > **Dica do Professor:** "Um sistema sem logging adequado é como dirigir um carro sem painel". Certifiquem-se de que sua aplicação tenha visibilidade total antes da apresentação final!
  
 # TIMES - GRUPOS EM ANDAMENTO
-- TIME 01: JOÃO VICTOR,...
+- TIME 01: JOÃO VICTOR AZEVEDO, VINICIUS ALENCAR, PAULO GABRIEL MORAES, GABRIEL LEAL, EDILSON PEREIRA
 - TIME 02: Pedro Gabriel, Odenir, Diego Henrique, Matheus Francisco
 - TIME 03: Pedro Gutemberg e Aylana Santos
 - TIME 04: Alysson Gomes, Jonnathan Mendes, Lindalva Evellyn, Matheus Peixoto, Natalia Maria, Natthan Gonçalves, Sabrina Lemos, Vitor Hugo
