@@ -58,6 +58,7 @@ Deverá ser postado no repositório oficial da disciplina:
 - TIME 02: Pedro Gabriel, Odenir, Diego Henrique, Matheus Francisco
 - TIME 03: Pedro Gutemberg e Aylana Santos
 - TIME 04: Alysson Gomes, Jonnathan Mendes, Lindalva Evellyn, Matheus Peixoto, Natalia Maria, Natthan Gonçalves, Sabrina Lemos, Vitor Hugo
+- TIME 05: RUAN, FERNANDO E ADRIAN
 
 # SUGESTÃO - Desafios para Smart City 
 - https://docs.google.com/document/d/1C0nNNBLqCDSXJoIcvWlhaoC26HUpmbETfKGtKsIpeJs/edit?usp=sharing
