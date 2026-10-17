@@ -5,7 +5,7 @@
 - 4. DESAFIO 4: 25/MAR/2026 (da AULA 6).
 - 5. DESAFIO FINAL: 10/JUNHO/2026 (AV2 - EM SALA)
 - 6. Link em destaque INSCRIÇÕES | FACEPE E SECTI EDITAL COMPET 14/2026: https://forms.gle/zD3ZLcyEcpTMdEfn7
-  7. DESAFIO FINAL_ESUDA_PÓS_DevSecOps: 24/OUT/2026.
+  7. DESAFIO FINAL_ESUDA_PÓS_DevSecOps: 24/OUT/2026 às 14H30 - 15H30 [FEEDBACK_17H00]
 
 # 🎓 Desafio Final: Seminário DevSecOps e Observabilidade 360°
 # Tema: "Arquitetura e Orquestração de Microserviços Resilientes com Foco em Observabilidade"
